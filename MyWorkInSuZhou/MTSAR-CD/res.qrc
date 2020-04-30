@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/MTSAR-CD(16).ico</file>
+        <file>image/MTSAR-CD(32).ico</file>
+        <file>image/MTSAR-CD(48).ico</file>
+        <file>image/MTSAR-CD(64).ico</file>
+        <file>image/MTSAR-CD(128).ico</file>
+        <file>image/MTSAR-CD(256).ico</file>
+        <file>image/black.css</file>
+    </qresource>
+</RCC>

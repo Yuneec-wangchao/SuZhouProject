@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/H12_无纹理.bmp</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
